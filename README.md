@@ -55,9 +55,9 @@
 
 ---
 
-[portfolio]: http://bilgehangecici.site/
-[twitter]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/filimonel/
+[portfolio]: https://www.filimone.com/
+[twitter]: https://twitter.com/FLeaaetoa
 
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)
